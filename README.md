@@ -26,4 +26,4 @@ Entre em contato comigo através do meu Linkedin ou Email  :point_down:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-Entusiasta de dados! Atualmente estudando para me tornar um Ciêntista de Dados.
+Entusiasta de dados! Atualmente estudando para me tornar um Cientista de Dados.
