@@ -1,11 +1,11 @@
 
 ### Olá! Eu sou o Marcos Bolsoni Siqueira 👋
 
-Formado em Relações Internacionais e Ciências Econômicas
+Formado em Relações Internacionais :earth_americas: e Ciências Econômicas :chart:
 
 Entusiasta de dados! 
 
-Atualmente estudando para me tornar um Cientista de Dados.
+Atualmente estudando Python, Machine Learning e SQL para me tornar um Cientista de Dados.
 
 Entre em contato comigo através do meu Linkedin ou Email  :point_down:
 
