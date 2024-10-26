@@ -3,7 +3,7 @@
 
 Formado em Relações Internacionais :earth_americas: e Ciências Econômicas :chart:
 
-Entusiasta de dados! 
+Atuando como Analista de Dados Pleno! 
 
 Atualmente estudando Python, Machine Learning e SQL para me tornar um Cientista de Dados.
 
