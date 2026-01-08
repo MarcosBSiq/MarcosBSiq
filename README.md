@@ -3,9 +3,7 @@
 
 Formado em Relações Internacionais :earth_americas: e Ciências Econômicas :chart:
 
-Atuando como Analista de Dados! 
-
-Atualmente estudando Python, Machine Learning e SQL para me tornar um Cientista de Dados.
+Atuando como Consultor de Business Intelligence! 
 
 Entre em contato comigo através do meu Linkedin ou Email  :point_down:
 
