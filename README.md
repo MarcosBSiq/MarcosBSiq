@@ -3,7 +3,7 @@
 
 Formado em Relações Internacionais :earth_americas: e Ciências Econômicas :chart:
 
-Atuando como Consultor de Business Intelligence! 
+Trabalho há 5 anos com análise de dados e atualmente atuo como Consultor de Business Intelligence! 
 
 Entre em contato comigo através do meu Linkedin ou Email  :point_down:
 
